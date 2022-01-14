@@ -21,7 +21,7 @@ I just recently completed General Assembly's Data Science Immersive Bootcamp (do
 ## Problem Statement
 As outlined above, General Assembly asked past participants to take part in a project of their choosing. Based on the time of year - the Holidays - I decided to explore data related to the classic toy Legos. Several datasets about different Lego features, sets, colors, models, etc. were available on Kaggle.com and served as the basis for my project: [Source: Kaggle](https://www.kaggle.com/rtatman/lego-database). The data was current as of July 2017 and does not reflect any Lego sets made after that time.  
 
-![image info](../data/downloads_schema.png)
+![image info](./data/downloads_schema.png)
 
 I had several goals related to the project, including: 
 1) Examine the existing data, noting any trends through EDA
